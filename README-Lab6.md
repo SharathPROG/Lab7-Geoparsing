@@ -1,0 +1,1 @@
+In this assignment i am going to make a function that will take url of a text file in Gutenberg project ad we will work on geoparsing i.e extracting place-names from text and matching those names with spatial coordinates. I have followed steps from https://github.com/IDCE-MSGIS/Lab7-Geoparsing and bring all the steps to make required function.
